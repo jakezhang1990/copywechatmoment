@@ -1,0 +1,4 @@
+include ':qsvideoplayer'
+include ':imagewatcher'
+include ':app'
+rootProject.name = "copywechatmoment"

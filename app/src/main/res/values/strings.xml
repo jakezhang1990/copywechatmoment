@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">copywechatmomentAPP</string>
+    <string name="copied" translatable="false">已复制</string>
+</resources>
